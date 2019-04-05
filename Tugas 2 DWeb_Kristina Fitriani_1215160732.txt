@@ -1,0 +1,4 @@
+Nama	: Kristina Fitriani
+NIM	: 1215160732
+Kelas	: Desain Web Siang/TP B 2016
+Link	: https://krisftr.github.io/WebProjekTugas2DWeb/
